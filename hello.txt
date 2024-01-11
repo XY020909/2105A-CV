@@ -1,3 +1,11 @@
 12345678
 good afternoon!
 今天开始学习git分支管理
+测试自己创建新分支
+Creating a new branch is quick AND simple.
+测试自己创建新分支
+Creating a new branch is quick AND simple.
+Creating a new branch is quick and simple.
+Creating a new branch is quick & simple.
+Good Lucky
+今天天气很好！
